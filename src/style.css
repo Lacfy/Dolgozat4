@@ -1,0 +1,23 @@
+.body {
+
+    background-color: rgb(23, 238, 16);
+  }
+
+.idezet{
+
+  padding: 60px;
+  position: absolute;
+  border: 1px solid black;
+  background-color: red;
+  transform: rotateY(60deg);
+  transform-style: flat;
+
+  text
+
+    color: aliceblue;
+}
+
+.about{
+
+
+}
